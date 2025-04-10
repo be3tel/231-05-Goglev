@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\project08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|c:\\users\\hp\\source\\repos\\project08\\fffff\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\versionedfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\versionedfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|C:\\Users\\HP\\source\\repos\\project08\\fffff\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E60618F-CC61-48A8-9E70-B7D580F87453}|fffff\\fffff.csproj|solutionrelative:fffff\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.cs",
+              "RelativeDocumentMoniker": "fffff\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "fffff\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.59Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\packages.config",
+              "RelativeDocumentMoniker": "fffff\\packages.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\packages.config",
+              "RelativeToolTip": "fffff\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-10T09:24:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\App.config",
+              "RelativeDocumentMoniker": "fffff\\App.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\App.config",
+              "RelativeToolTip": "fffff\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-10T09:24:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Constants.cs",
+              "RelativeDocumentMoniker": "fffff\\Constants.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Constants.cs",
+              "RelativeToolTip": "fffff\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditStudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\EditStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "fffff\\EditStudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\EditStudentForm.Designer.cs",
+              "RelativeToolTip": "fffff\\EditStudentForm.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAwMwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-04-10T09:24:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "fffff\\EditStudentForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\EditStudentForm.cs",
+              "RelativeToolTip": "fffff\\EditStudentForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-10T09:24:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CsvService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\CsvService.cs",
+              "RelativeDocumentMoniker": "fffff\\CsvService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\CsvService.cs",
+              "RelativeToolTip": "fffff\\CsvService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.584Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Program.cs",
+              "RelativeDocumentMoniker": "fffff\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Program.cs",
+              "RelativeToolTip": "fffff\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VersionedFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\VersionedFileManager.cs",
+              "RelativeDocumentMoniker": "fffff\\VersionedFileManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\VersionedFileManager.cs",
+              "RelativeToolTip": "fffff\\VersionedFileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "fffff\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\StudentRepository.cs",
+              "RelativeToolTip": "fffff\\StudentRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAMwDgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "fffff\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\IStudentRepository.cs",
+              "RelativeToolTip": "fffff\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Student.cs",
+              "RelativeDocumentMoniker": "fffff\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\Student.cs",
+              "RelativeToolTip": "fffff\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "fffff\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.Designer.cs",
+              "RelativeToolTip": "fffff\\MainForm.Designer.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAQwGsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.cs",
+              "RelativeDocumentMoniker": "fffff\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\project08\\fffff\\MainForm.cs",
+              "RelativeToolTip": "fffff\\MainForm.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswMoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:24:51.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
